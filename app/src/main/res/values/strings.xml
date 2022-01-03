@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Testes-Integrados-Espresso</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Logar</string>
+    <string name="previous">Voltar</string>
+
+    <string name="txt_app_testes">App para Testes</string>
+    <string name="txt_logado">Logado</string>
+    <string name="txt_hint_login_email">Digite o email</string>
+    <string name="txt_hint_login_password">Digite a senha</string>
+    <string name="txtView_logado">Logado</string>
+</resources>
